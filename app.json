@@ -14,27 +14,26 @@
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "ba3159de9587c4364111fc40fe5ec6c8"
+            "value": true 
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "24612695"
+            "value": true
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6837952381:AAF7e5EuJl-NVHInGW3wBDtDAaLzU9RG2no"
-        },
+            "value": true
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "hello"
+            "value": true
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "1247783606"
+            "value": true
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "@sandeep_shekhawat_1"
+            "value": true
         }
     },
     "stack": "container"
