@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
     "website": "",
-    "success_url": "https://t.me/rajasthan_02",
+    "success_url": "https://t.me/dev_gagan",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
